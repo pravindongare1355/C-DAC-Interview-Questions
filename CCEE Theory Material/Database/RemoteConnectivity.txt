@@ -1,0 +1,9 @@
+1. One the installation is finished, launch the MySQL Workbench.
+2. Create a new Connection by clicking '+' sign next to MySQL Connections.
+3. You can give any connection name.
+4. Enter 192.168.2.128 as the hostname and port as 3306.
+5. Username for students is 'stud'+respective rollnumbers/reg numbers with password 'welcome'.
+	e.g. Student having 01 rollno has 'stud01' as username.
+6. Test the connection and log on using the same connection.
+7. Once logged on, type command ('USE db'), where db is 'db'+respective rollnumbers/reg numbers
+	e.g. Student having 01 rollno has 'db01' as dbname.
